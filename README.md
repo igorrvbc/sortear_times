@@ -11,9 +11,8 @@ Sistema simples para organizar e sortear **4 times de 6 jogadores** entre amigos
 
 Você pode acessar e usar o sistema online, sem instalar nada:
 
-👉 [Clique aqui para acessar o app no Streamlit](https://SEU-LINK.streamlit.app)
+👉 [Clique aqui para acessar o app no Streamlit](https://sorteartimes.streamlit.app)
 
-(Substitua com seu link real assim que publicar)
 
 ---
 
