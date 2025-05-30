@@ -1,13 +1,13 @@
 # sortear_times
 App simples parar sortear os jogadores para cada time do futebol(pelada)
 
-# ⚽ Sorteador de Times de Futebol
+# ⚽ Sorteador de Times de Futebol ⚽
 
 Sistema simples para organizar e sortear **4 times de 6 jogadores** entre amigos de forma totalmente **aleatória**, com direito a definição de **capitães**, **distribuição dos jogadores** e **sorteio dos confrontos iniciais**.
 
 ---
 
-## 🚀 Acesse o App
+## ⚽ Acesse o App
 
 Você pode acessar e usar o sistema online, sem instalar nada:
 
@@ -16,7 +16,7 @@ Você pode acessar e usar o sistema online, sem instalar nada:
 
 ---
 
-## 👾 Como funciona
+## ⚽ Como funciona
 
 1. **Informe os nomes dos 4 capitães** – um para cada time.
 2. O sistema irá sortear os jogadores (números de 1 a 20) e distribuir aleatoriamente **5 jogadores para cada capitão**, formando assim os 4 times.
@@ -25,7 +25,7 @@ Você pode acessar e usar o sistema online, sem instalar nada:
 
 ---
 
-## 🎮 Regras
+## ⚽ Regras
 
 - Cada time possui:
   - 1 Capitão (informado manualmente)
